@@ -1,3 +1,6 @@
 you put things into the gitignore file that we don't want to show up in git to keep it clean.
 
 on apple they like to ignore .DS_Store
+
+.csv
+output/
