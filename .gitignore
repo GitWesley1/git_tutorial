@@ -2,5 +2,5 @@ you put things into the gitignore file that we don't want to show up in git to k
 
 on apple they like to ignore .DS_Store
 
-.csv
+*.csv
 output/
